@@ -1,2 +1,7 @@
 # alibayani.github.io
-Personal Homepage
+
+Hello Everyone!
+
+This repo hosts my personal portfolio using GitHub Pages.
+
+ALI BAYANI
