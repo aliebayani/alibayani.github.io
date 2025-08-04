@@ -4,4 +4,4 @@ Hello Everyone!
 
 This repo hosts my personal portfolio using GitHub Pages.
 
-ALI BAYANI
+© ALI BAYANI 2025
